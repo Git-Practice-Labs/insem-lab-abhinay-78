@@ -80,7 +80,7 @@ Name it: lab01-git-repo
 Keep it public, and do not initialize with README (you already have one).
 Then copy the given remote URL.
 12. Link local repo to GitHub and push
-git remote add origin https://github.com/YOUR_USERNAME/lab01-git-repo.git
+git remote add origin https://github.com/abhinay-078/lab01-git-repo.git
 git branch -M main
 git push -u origin main
 Your local code is now on GitHub.
